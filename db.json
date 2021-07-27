@@ -38,16 +38,18 @@
       }
     ]
   },
-  "pb": [
-    {
-      "rank": 1,
-      "prize": "iPHONE",
-      "description": "Bumper Prize"
-    },
-    {
-      "rank": 2,
-      "prize": "Rs.1000000",
-      "description": "Dumper Prize"
-    }
-  ]
+  "pb": {
+    "prizeBreakup": [
+      {
+        "rank": 1,
+        "prize": "iPHONE",
+        "description": "Bumper Prize"
+      },
+      {
+        "rank": 2,
+        "prize": "Rs.1000000",
+        "description": "Dumper Prize"
+      }
+    ]
+  }
 }
