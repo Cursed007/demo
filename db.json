@@ -49,6 +49,11 @@
         "rank": 2,
         "prize": "Rs.1000000",
         "description": "Dumper Prize"
+      },
+      {
+        "rank": 3,
+        "prize": "Rs.10000",
+        "description": "Gumper Prize"
       }
     ]
   }
