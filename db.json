@@ -56,5 +56,35 @@
         "description": "Gumper Prize"
       }
     ]
+  },
+  "pl": {
+    "pastLottery": [
+      {
+        "lotteryId": 1234,
+        "lotteryPrize": "iphone",
+        "startDate": 1627399884000,
+        "endDate": 1627399884000,
+        "noOfwinners": 20,
+        "noOfSoldTickets": 2,
+        "noOfTicketsOfUser": 2,
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg",
+        "winningCredittedIn": "Winners Winning",
+        "winAmount": "2000",
+        "hasJoined": true
+      },
+      {
+        "lotteryId": 1234,
+        "lotteryPrize": "iphone",
+        "startDate": 1627399884000,
+        "endDate": 1627399884000,
+        "noOfwinners": 20,
+        "noOfSoldTickets": 2,
+        "noOfTicketsOfUser": 2,
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg",
+        "winningCredittedIn": "Winners Winning",
+        "winAmount": "2000",
+        "hasJoined": false
+      }
+    ]
   }
 }
