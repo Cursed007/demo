@@ -24,6 +24,18 @@
   },
   "myT": {
     "myTicket": [
+      {
+        "ticketId": 567589,
+        "refferalName": "rajan kumar",
+        "referralimageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+        "refferedDate": "12/27/22"
+      },
+      {
+        "ticketId": 345678,
+        "refferalName": "Test 123 123",
+        "referralimageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+        "refferedDate": "12/27/22"
+      }
     ]
   }
 }
