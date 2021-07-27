@@ -2,7 +2,7 @@
   "lotteryDetails":{
     "lotteryId": 1234,
     "lotteryPrize": "iphone",
-    "startDate": 1627313484000,
+    "startDate": 1627399884000,
     "endDate": 1627399884000,
     "noOfwinners": 20,
     "noOfSoldTickets": 2,
