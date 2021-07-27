@@ -1,1 +1,33 @@
-{"lotteryDetails":{"lotteryId":1234,"lotteryPrize":"iphone","startDate":1627399884000,"endDate":1627399884000,"noOfwinners":20,"noOfSoldTickets":2,"noOfTicketsOfUser":2,"imageUrl":"https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg","winningCredittedIn":"Winners Winning"},"carousel":[{"imageUrl":"https://ichef.bbci.co.uk/news/976/cpsprodpb/1B8C/production/_119525070_wwlr1.jpg","deepLink":""},{"imageUrl":"https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg","deepLink":""}]}
+{
+  "lotteryD":{
+   "lotteryDetails": {
+    "lotteryId": 1234,
+    "lotteryPrize": "iphone",
+    "startDate": 1627399884000,
+    "endDate": 1627399884000,
+    "noOfwinners": 20,
+    "noOfSoldTickets": 2,
+    "noOfTicketsOfUser": 2,
+    "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg",
+    "winningCredittedIn": "Winners Winning"
+   },
+  "carousel": [
+    {
+      "imageUrl": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1B8C/production/_119525070_wwlr1.jpg",
+      "deepLink": ""
+    },
+    {
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg",
+      "deepLink": ""
+    }
+    ]
+  },
+  "myT":[
+    {
+      "ticketId": 123456,
+      "refferalName": "rajan kumar",
+      "referralimageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+      "refferedDate": "12/27/22"
+    }
+  ]
+}
