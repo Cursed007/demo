@@ -86,5 +86,84 @@
         "hasJoined": false
       }
     ]
+  },
+  "lul":{
+    "lotteryUserDetails":{
+      "hasJoined": "NotJoined",
+      "lotteryUserList":[
+      {
+        "ticketNo":123,
+        "prizeWon":"Rs. 1,00,000",
+        "hasWon":true,
+        "referralImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+        "referralDate": 1627399884000,
+        "referralName": "Shivam",
+        "referredName": "Sachin",
+        "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+        "claimStatus":"NotClaimed",
+        "claimExpireTime":1627399884000
+      },
+      {
+        "ticketNo":124,
+        "prizeWon":"Rs. 30,000",
+        "hasWon":true,
+        "referralImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+        "referralDate": 1627399884000,
+        "referralName": "Shivam 2",
+        "referredName": "Sachin 2",
+        "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+        "claimStatus":"NotClaimed",
+        "claimExpireTime":1627399884000
+      },
+      {
+        "ticketNo":125,
+        "prizeWon":"Rs. 1,00,000",
+        "hasWon":false,
+        "referralImageUrl": "",
+        "referralDate": 0,
+        "referralName": "",
+        "referredName": "Sachin",
+        "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+        "claimStatus":"",
+        "claimExpireTime":0
+      },
+      {
+        "ticketNo":125,
+        "prizeWon":"Rs. 1,00,000",
+        "hasWon":false,
+        "referralImageUrl": "",
+        "referralDate": 0,
+        "referralName": "",
+        "referredName": "Sachin",
+        "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+        "claimStatus":"",
+        "claimExpireTime":0
+      },
+      {
+        "ticketNo":125,
+        "prizeWon":"Rs. 1,00,000",
+        "hasWon":false,
+        "referralImageUrl": "",
+        "referralDate": 0,
+        "referralName": "",
+        "referredName": "Sachin",
+        "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+        "claimStatus":"",
+        "claimExpireTime":0
+      },
+      {
+        "ticketNo":125,
+        "prizeWon":"Rs. 1,00,000",
+        "hasWon":false,
+        "referralImageUrl": "",
+        "referralDate": 0,
+        "referralName": "",
+        "referredName": "Sachin",
+        "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+        "claimStatus":"",
+        "claimExpireTime":0
+      }
+      ]
+    }
   }
 }
