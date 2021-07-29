@@ -177,7 +177,8 @@
       }
       ]
     },
-    "alt":{
+  },
+  "alt":{
       "allTicketDetail":{
         "hasJoined":"JoinedButNotWon",
         "ticketDetailList":[
@@ -269,5 +270,4 @@
         ]
       }
     }
-  }
 }
