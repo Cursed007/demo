@@ -150,30 +150,6 @@
                "referredImageUrl":"",
                "claimStatus":"",
                "claimExpireTime":0
-            },
-            {
-               "ticketNo":1253,
-               "prizeWon":"Rs. 500",
-               "hasWon":false,
-               "referralImageUrl":"https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-               "referralDate":0,
-               "referralName":"Sachin b",
-               "referredName":"",
-               "referredImageUrl":"",
-               "claimStatus":"",
-               "claimExpireTime":0
-            },
-            {
-               "ticketNo":1255,
-               "prizeWon":"Rs. 30,120",
-               "hasWon":false,
-               "referralImageUrl":"https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-               "referralDate":0,
-               "referralName":"Sachin a",
-               "referredName":"",
-               "referredImageUrl":"",
-               "claimStatus":"",
-               "claimExpireTime":0
             }
          ]
       }
@@ -231,39 +207,6 @@
                "ticketNo":987,
                "prizeWon":"Rs 10,000",
                "hasWon":false,
-               "imageUrl":"https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-               "referralDate":"08 Mar 2021",
-               "name":"Rohan Singh",
-               "referredUserDetails":{
-                  
-               }
-            },
-            {
-               "ticketNo":9187,
-               "prizeWon":"Rs 10,000",
-               "hasWon":true,
-               "imageUrl":"https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-               "referralDate":"08 Mar 2021",
-               "name":"Rohan Singh",
-               "referredUserDetails":{
-                  
-               }
-            },
-            {
-               "ticketNo":10987,
-               "prizeWon":"Rs 9,120",
-               "hasWon":true,
-               "imageUrl":"https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-               "referralDate":"08 Mar 2021",
-               "name":"Rohan Singh",
-               "referredUserDetails":{
-                  
-               }
-            },
-            {
-               "ticketNo":9287,
-               "prizeWon":"Rs 5,00,000",
-               "hasWon":true,
                "imageUrl":"https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
                "referralDate":"08 Mar 2021",
                "name":"Rohan Singh",
