@@ -81,7 +81,7 @@
                "referralName":"Sachin",
                "referredName":"Shivam",
                "referredImageUrl":"https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-               "claimStatus":"NOT_CLAIMED",
+               "claimStatus":"claim",
                "claimExpireTime":1627399884000
             },
             {
@@ -93,7 +93,7 @@
                "referralName":"Sach2in 2",
                "referredName":"Ahivam 2",
                "referredImageUrl":"https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-               "claimStatus":"CLAIMED",
+               "claimStatus":"claimed",
                "claimExpireTime":1627399884000
             },
             {
@@ -105,7 +105,7 @@
                "referralName":"Sachin 21",
                "referredName":"Shivam 22",
                "referredImageUrl":"https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-               "claimStatus":"EXPIRED",
+               "claimStatus":"expired",
                "claimExpireTime":1627399884000
             },
             {
