@@ -3,8 +3,8 @@
     "lotteryDetails": {
       "lotteryId": 12342,
       "lotteryPrize": "iphone",
-      "startDate": 1628090070523,
-      "endDate": 1628090070523,
+      "startDate": 1628590070523,
+      "endDate": 1628590070523,
       "noOfwinners": 20,
       "noOfSoldTickets": 2,
       "noOfTicketsOfUser": 2,
@@ -43,8 +43,8 @@
       {
         "lotteryId": 132234,
         "lotteryPrize": "iphone",
-        "startDate": 1628090070523,
-        "endDate": 1628090070523,
+        "startDate": 1628590070523,
+        "endDate": 1628590070523,
         "noOfwinners": 20,
         "noOfSoldTickets": 2,
         "noOfTicketsOfUser": 2,
@@ -56,8 +56,8 @@
       {
         "lotteryId": 121234,
         "lotteryPrize": "iphone",
-        "startDate": 1628090070523,
-        "endDate": 1628090070523,
+        "startDate": 1628590070523,
+        "endDate": 1628590070523,
         "noOfwinners": 20,
         "noOfSoldTickets": 2,
         "noOfTicketsOfUser": 2,
@@ -82,7 +82,7 @@
           "referredUserDetails": {
             "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
             "referredName": "Nimish",
-            "claimExpiry": 1628090070523,
+            "claimExpiry": 1628590070523,
             "ClaimedOn": "29 Apr 2021",
             "claimStatus": "claimed"
           }
@@ -97,7 +97,7 @@
           "referredUserDetails": {
             "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
             "referredName": "Nimish Gup",
-            "claimExpiry": 1628090070523,
+            "claimExpiry": 1628590070523,
             "ClaimedOn": "29 Apr 2021",
             "claimStatus": "claim"
           }
@@ -112,7 +112,7 @@
           "referredUserDetails": {
             "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
             "referredName": "Nimish Mahe",
-            "claimExpiry": 1628090070523,
+            "claimExpiry": 1628590070523,
             "ClaimedOn": "29 Apr 2021",
             "claimStatus": "expired"
           }
@@ -143,7 +143,7 @@
           "referredUserDetails": {
             "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
             "referredName": "Nimish",
-            "claimExpiry": 1628090070523,
+            "claimExpiry": 1628590070523,
             "ClaimedOn": "29 Apr 2021",
             "claimStatus": "claimed"
           }
@@ -158,7 +158,7 @@
           "referredUserDetails": {
             "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
             "referredName": "Nimish Gup",
-            "claimExpiry": 1628090070523,
+            "claimExpiry": 1628590070523,
             "ClaimedOn": "29 Apr 2021",
             "claimStatus": "claim"
           }
@@ -173,7 +173,7 @@
           "referredUserDetails": {
             "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
             "referredName": "Nimish Mahe",
-            "claimExpiry": 1628090070523,
+            "claimExpiry": 1628590070523,
             "ClaimedOn": "29 Apr 2021",
             "claimStatus": "expired"
           }
