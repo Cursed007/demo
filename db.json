@@ -2,7 +2,7 @@
   "lotteryD": {
     "lotteryDetails": {
       "lotteryId": 12342,
-      "lotteryPrize": "android2222222",
+      "lotteryPrize": "android2222",
       "startDate": 1628162775000,
       "endDate": 1628590070523,
       "noOfwinners": 20,
@@ -51,9 +51,9 @@
         "lotteryPrize": "iphone",
         "startDate": 1628590070523,
         "endDate": 1628590070523,
-        "noOfwinners": 20,
-        "noOfSoldTickets": 2,
-        "noOfTicketsOfUser": 2,
+        "noOfwinners": 2000,
+        "noOfSoldTickets": 200,
+        "noOfTicketsOfUser": 200,
         "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg",
         "winningCredittedIn": "Winners Winning",
         "winAmount": "2000",
@@ -74,8 +74,8 @@
       }
     ]
   },
-  "lul": {
-    "lotteryUserDetails": {
+   "lul":{
+      "lotteryUserDetails":{
       "hasJoined": "JoinedButNotWon",
       "lotteryList": [
         {
@@ -134,24 +134,66 @@
         }
       ]
     }
-  },
-  "pb": {
-    "prizeBreakup": [
-      {
-        "rank": 1,
-        "prize": "iPHONE",
-        "description": "Bumper Prize"
-      },
-      {
-        "rank": 2,
-        "prize": "Rs.1000000",
-        "description": "Dumper Prize"
-      },
-      {
-        "rank": 3,
-        "prize": "Rs.10000",
-        "description": "Gumper Prize"
-      }
-    ]
+   },
+  "atl": {
+    "allTicketDetail": {
+      "hasJoined": "JoinedButNotWon",
+      "ticketDetailList": [
+        {
+          "ticketNo": 987123,
+          "prizeWon": "Rs 10,000",
+          "hasWon": true,
+          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+          "referralDate": "08 Mar 2021",
+          "name": "Rohan Singh",
+          "referredUserDetails": {
+            "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+            "referredName": "Nimish",
+            "claimExpiry": 1628590070523,
+            "ClaimedOn": "29 Apr 2021",
+            "claimStatus": "claimed"
+          }
+        },
+        {
+          "ticketNo": 1981237,
+          "prizeWon": "Rs 7,000",
+          "hasWon": true,
+          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+          "referralDate": "18 Mar 2020",
+          "name": "Rohan Singh",
+          "referredUserDetails": {
+            "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+            "referredName": "Nimish Gup",
+            "claimExpiry": 1628590070523,
+            "ClaimedOn": "29 Apr 2021",
+            "claimStatus": "claim"
+          }
+        },
+        {
+          "ticketNo": 127123,
+          "prizeWon": "Rs 500",
+          "hasWon": true,
+          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+          "referralDate": "18 Dec 2017",
+          "name": "Rohan Singh",
+          "referredUserDetails": {
+            "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+            "referredName": "Nimish Mahe",
+            "claimExpiry": 1628590070523,
+            "ClaimedOn": "29 Apr 2021",
+            "claimStatus": "expired"
+          }
+        },
+        {
+          "ticketNo": 981237,
+          "prizeWon": "Rs 10,000",
+          "hasWon": false,
+          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
+          "referralDate": "08 Mar 2021",
+          "name": "Rohan Singh",
+          "referredUserDetails": {}
+        }
+      ]
+    }
   }
 }
