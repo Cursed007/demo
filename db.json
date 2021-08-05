@@ -2,13 +2,13 @@
   "lotteryD": {
     "lotteryDetails": {
       "lotteryId": 12342,
-      "lotteryPrize": "iphone",
-      "startDate": 1628590070523,
+      "lotteryPrize": "android2222",
+      "startDate": 1628162775000,
       "endDate": 1628590070523,
       "noOfwinners": 20,
       "noOfSoldTickets": 2,
       "noOfTicketsOfUser": 2,
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg",
+      "imageUrl": "https://cdn.vox-cdn.com/thumbor/nItys9dWYxVq51v6H46MW99exuQ=/0x0:2040x1360/920x613/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/68622964/acastro_210104_1777_google_0001.0.jpg",
       "winningCredittedIn": "Winners Winning"
     },
     "carousel": [
