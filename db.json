@@ -74,8 +74,8 @@
       }
     ]
   },
-   "lul":{
-      "lotteryUserDetails":{
+  "lul": {
+    "lotteryUserDetails": {
       "hasJoined": "JoinedButNotWon",
       "lotteryList": [
         {
@@ -134,25 +134,24 @@
         }
       ]
     }
-   },
- "pb":{
-      "prizeBreakup":[
-         {
-            "rank":1,
-            "prize":"iPHONE",
-            "description":"Bumper Prize"
-         },
-         {
-            "rank":2,
-            "prize":"Rs.1000000",
-            "description":"Dumper Prize"
-         },
-         {
-            "rank":3,
-            "prize":"Rs.10000",
-            "description":"Gumper Prize"
-         }
-      ]
-   }
+  },
+  "pb": {
+    "prizeBreakup": [
+      {
+        "rank": 1,
+        "prize": "iPHONE",
+        "description": "Bumper Prize"
+      },
+      {
+        "rank": 2,
+        "prize": "Rs.1000000",
+        "description": "Dumper Prize"
+      },
+      {
+        "rank": 3,
+        "prize": "Rs.10000",
+        "description": "Gumper Prize"
+      }
+    ]
   }
 }
