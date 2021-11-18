@@ -17,32 +17,27 @@
             "NAME": null,
             "UNIQUE_CARD_ID": "20_promotions",
             "GLOBAL_ORDER_RANK": 0
+          },
+          {
+            "TYPE": 1,
+            "DISPLAY_TYPE": 0,
+            "GAME_DATA": {
+              "GAME_TYPE_ID": 70,
+              "NEW_GAME_SERVER": true,
+              "SHOW_BOOT_SCREEN": true,
+              "SHOW_ALL_RUMMY_BUTTON": false,
+              "PERMISSIONS": {
+                "IS_LOCATION_REQUIRED": false,
+                "IS_CONTACTS_REQUIRED": false
+              },
+              "GAME_MODE": 2
+            },
+            "UNIQUE_CARD_ID": "70_game",
+            "GLOBAL_ORDER_RANK": 11
           }
         ],
         "LIST_TYPE": 1,
         "TITLE": "FOR YOU"
-      },
-      {
-        "TYPE": 1,
-        "DISPLAY_TYPE": 1,
-        "IMAGE_URL": null,
-        "DEEP_LINK": null,
-        "GAME_DATA": {
-          "GAME_TYPE_ID": 70,
-          "IS_LANDSCAPE": false,
-          "GAME_ENGINE": 0,
-          "APP_VERSION_SUPPORTED": 0,
-          "NEW_GAME_SERVER": true,
-          "GAME_DOWNLOAD_URL": null,
-          "SHOW_BOOT_SCREEN": true,
-          "SHOW_ALL_RUMMY_BUTTON": false,
-          "ENABLE_GAME_AUTHENTICATION": false,
-          "PERMISSIONS": {
-            "IS_LOCATION_REQUIRED": false,
-            "IS_CONTACTS_REQUIRED": false
-          },
-          "GAME_MODE": 2
-        }
       }
     ]
   }
