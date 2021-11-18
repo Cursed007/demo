@@ -1,27 +1,42 @@
 {
-  "search": {
-    "LIST": [
-      {
-        "CATEGORY_ID": 1129,
-        "DISPLAY_ORDER": 8,
-        "GRID_SIZE": 4,
-        "IS_AUTO_SCROLL": false,
-        "LIST": [
-          {
-            "TYPE": 3,
-            "DISPLAY_TYPE": 1,
-            "IMAGE_URL": "https://d5d8d9fr8izry.cloudfront.net/winzo-baazi-promotion/en/IPL-2021.png",
-            "DEEP_LINK": "https://www.winzogames.com/winzo_fantasy",
-            "GAME_DATA": null,
-            "DIALOG_DATA": null,
-            "NAME": null,
-            "UNIQUE_CARD_ID": "20_promotions",
-            "GLOBAL_ORDER_RANK": 0
-          }
-        ],
-        "LIST_TYPE": 1,
-        "TITLE": "FOR YOU"
-      }
-    ]
-  }
+  "LIST": [
+    {
+      "CATEGORY_ID": 1129,
+      "DISPLAY_ORDER": 8,
+      "GRID_SIZE": 3,
+      "IS_AUTO_SCROLL": false,
+      "LIST": [
+        {
+          "TYPE": 3,
+          "DISPLAY_TYPE": 1,
+          "IMAGE_URL": "https://d5d8d9fr8izry.cloudfront.net/winzo-baazi-promotion/en/IPL-2021.png",
+          "DEEP_LINK": "https://www.winzogames.com/winzo_fantasy",
+          "GAME_DATA": null,
+          "DIALOG_DATA": null,
+          "NAME": null,
+          "UNIQUE_CARD_ID": "20_promotions",
+          "GLOBAL_ORDER_RANK": 0
+        }
+      ],
+      "LIST_TYPE": 1,
+      "TITLE": "FOR YOU"
+    },
+    {
+      "TYPE": 1,
+      "DISPLAY_TYPE": 0,
+      "GAME_DATA": {
+        "GAME_TYPE_ID": 70,
+        "NEW_GAME_SERVER": true,
+        "SHOW_BOOT_SCREEN": true,
+        "SHOW_ALL_RUMMY_BUTTON": false,
+        "PERMISSIONS": {
+          "IS_LOCATION_REQUIRED": false,
+          "IS_CONTACTS_REQUIRED": false
+        },
+        "GAME_MODE": 2
+      },
+      "UNIQUE_CARD_ID": "70_game",
+      "GLOBAL_ORDER_RANK": 11
+    }
+  ]
 }
