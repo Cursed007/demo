@@ -24,7 +24,7 @@
       },
       {
         "TYPE": 1,
-        "DISPLAY_TYPE": 0,
+        "DISPLAY_TYPE": 1,
         "GAME_DATA": {
           "GAME_TYPE_ID": 70,
           "NEW_GAME_SERVER": true,
