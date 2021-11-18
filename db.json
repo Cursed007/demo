@@ -1,256 +1,27 @@
 {
-  "lotteryD": {
-    "lotteryDetails": {
-      "lotteryId": 12342,
-      "lotteryPrize": "samsung galaxy android 2222",
-      "startDate": 1628162775000,
-      "endDate": 1628590070523,
-      "noOfwinners": 2000,
-      "noOfSoldTickets": 200,
-      "noOfTicketsOfUser": 200,
-      "imageUrl": "https://cdn.vox-cdn.com/thumbor/nItys9dWYxVq51v6H46MW99exuQ=/0x0:2040x1360/920x613/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/68622964/acastro_210104_1777_google_0001.0.jpg",
-      "winningCredittedIn": "Winners Winning"
-    },
-    "carousel": [
+  "search": {
+    "LIST": [
       {
-        "imageUrl": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1B8C/production/_119525070_wwlr1.jpg",
-        "deepLink": ""
-      },
-      {
-        "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg",
-        "deepLink": ""
-      },
-      {
-        "imageUrl": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg",
-        "deepLink": ""
+        "CATEGORY_ID": 1129,
+        "DISPLAY_ORDER": 8,
+        "GRID_SIZE": 4,
+        "IS_AUTO_SCROLL": false,
+        "LIST": [
+          {
+            "TYPE": 3,
+            "DISPLAY_TYPE": 1,
+            "IMAGE_URL": "https://d5d8d9fr8izry.cloudfront.net/winzo-baazi-promotion/en/IPL-2021.png",
+            "DEEP_LINK": "https://www.winzogames.com/winzo_fantasy",
+            "GAME_DATA": null,
+            "DIALOG_DATA": null,
+            "NAME": null,
+            "UNIQUE_CARD_ID": "20_promotions",
+            "GLOBAL_ORDER_RANK": 0
+          }
+        ],
+        "LIST_TYPE": 1,
+        "TITLE": "FOR YOU"
       }
     ]
-  },
-  "myT": {
-    "myTicket": [
-      {
-        "ticketId": 567589,
-        "refferalName": "rajan kumar",
-        "referralimageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-        "refferedDate": "12/27/22"
-      },
-      {
-        "ticketId": 345678,
-        "refferalName": "Test 123 123",
-        "referralimageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-        "refferedDate": "12/27/22"
-      },
-      {
-        "ticketId": 123456,
-        "refferalName": "Test123",
-        "referralimageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-        "refferedDate": "12/27/22"
-      },
-      {
-        "ticketId": 44123456,
-        "refferalName": "sandeep Test123",
-        "referralimageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-        "refferedDate": "12/27/22"
-      },
-      {
-        "ticketId": 22123456,
-        "refferalName": "montyTest123",
-        "referralimageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-        "refferedDate": "12/27/22"
-      }
-    ]
-  },
-  "pl": {
-    "pastLottery": [
-      {
-        "lotteryId": 132234,
-        "lotteryPrize": "iphone",
-        "startDate": 1628590070523,
-        "endDate": 1628590070523,
-        "noOfwinners": 2000,
-        "noOfSoldTickets": 200,
-        "noOfTicketsOfUser": 200,
-        "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg",
-        "winningCredittedIn": "Winners Winning",
-        "winAmount": "2000",
-        "hasJoined": true
-      },
-      {
-        "lotteryId": 121234,
-        "lotteryPrize": "iphone",
-        "startDate": 1628590070523,
-        "endDate": 1628590070523,
-        "noOfwinners": 20,
-        "noOfSoldTickets": 2,
-        "noOfTicketsOfUser": 2,
-        "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg",
-        "winningCredittedIn": "Winners Winning",
-        "winAmount": "2000",
-        "hasJoined": false
-      }
-    ]
-  },
-  "lul": {
-    "lotteryUserDetails": {
-      "hasJoined": "JoinedButNotWon",
-      "lotteryList": [
-        {
-          "ticketNo": 981237,
-          "prizeWon": "Rs 10,000",
-          "hasWon": true,
-          "displayShareButton": true,
-          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-          "referralDate": "08 Mar 2021",
-          "name": "Rohan Singh",
-          "rank": -1,
-          "referredUserDetails": {
-            "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-            "referredName": "Nimish",
-            "claimExpiry": 1628590070523,
-            "ClaimedOn": "29 Apr 2021",
-            "claimStatus": "claimed"
-          }
-        },
-        {
-          "ticketNo": 192387,
-          "prizeWon": "Rs 7,000",
-          "hasWon": true,
-          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-          "referralDate": "18 Mar 2020",
-          "name": "Rohan Singh",
-          "rank": -1,
-          "displayShareButton": false,
-          "referredUserDetails": {
-            "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-            "referredName": "Nimish Gup",
-            "claimExpiry": 1628590070523,
-            "ClaimedOn": "29 Apr 2021",
-            "claimStatus": "claim"
-          }
-        },
-        {
-          "ticketNo": 112327,
-          "prizeWon": "Rs 500",
-          "hasWon": true,
-          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-          "referralDate": "18 Dec 2017",
-          "name": "Rohan Singh",
-          "rank": -1,
-          "displayShareButton": false,
-          "referredUserDetails": {
-            "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-            "referredName": "Nimish Mahe",
-            "claimExpiry": 1628590070523,
-            "ClaimedOn": "29 Apr 2021",
-            "claimStatus": "expired"
-          }
-        },
-        {
-          "ticketNo": 987123,
-          "prizeWon": "Rs 10,000",
-          "hasWon": false,
-          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-          "referralDate": "08 Mar 2021",
-          "name": "Rohan Singh",
-          "rank": 1,
-          "displayShareButton": false,
-          "referredUserDetails": {}
-        },
-        {
-          "ticketNo": 987123,
-          "prizeWon": "Rs 10,000",
-          "hasWon": false,
-          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-          "referralDate": "08 Mar 2021",
-          "name": "Rohan Singh",
-          "rank": 2,
-          "displayShareButton": false,
-          "referredUserDetails": {}
-        },
-        {
-          "ticketNo": 987123,
-          "prizeWon": "Rs 10,000",
-          "hasWon": false,
-          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-          "referralDate": "08 Mar 2021",
-          "name": "Rohan Singh",
-          "rank": 3,
-          "displayShareButton": false,
-          "referredUserDetails": {}
-        },
-        {
-          "ticketNo": 987123,
-          "prizeWon": "Rs 10,000",
-          "hasWon": false,
-          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-          "referralDate": "08 Mar 2021",
-          "name": "Rohan Singh",
-          "rank": -1,
-          "displayShareButton": false,
-          "referredUserDetails": {}
-        }
-      ]
-    }
-  },
-  "atl": {
-    "allTicketDetail": {
-      "hasJoined": "JoinedButNotWon",
-      "ticketDetailList": [
-        {
-          "ticketNo": 987123,
-          "prizeWon": "Rs 10,000",
-          "hasWon": true,
-          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-          "referralDate": "08 Mar 2021",
-          "name": "Rohan Singh",
-          "referredUserDetails": {
-            "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-            "referredName": "Nimish",
-            "claimExpiry": 1628590070523,
-            "ClaimedOn": "29 Apr 2021",
-            "claimStatus": "claimed"
-          }
-        },
-        {
-          "ticketNo": 1981237,
-          "prizeWon": "Rs 7,000",
-          "hasWon": true,
-          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-          "referralDate": "18 Mar 2020",
-          "name": "Rohan Singh",
-          "referredUserDetails": {
-            "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-            "referredName": "Nimish Gup",
-            "claimExpiry": 1628590070523,
-            "ClaimedOn": "29 Apr 2021",
-            "claimStatus": "claim"
-          }
-        },
-        {
-          "ticketNo": 127123,
-          "prizeWon": "Rs 500",
-          "hasWon": true,
-          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-          "referralDate": "18 Dec 2017",
-          "name": "Rohan Singh",
-          "referredUserDetails": {
-            "referredImageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-            "referredName": "Nimish Mahe",
-            "claimExpiry": 1628590070523,
-            "ClaimedOn": "29 Apr 2021",
-            "claimStatus": "expired"
-          }
-        },
-        {
-          "ticketNo": 981237,
-          "prizeWon": "Rs 10,000",
-          "hasWon": false,
-          "imageUrl": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/medical-face-shield-360x360.jpg",
-          "referralDate": "08 Mar 2021",
-          "name": "Rohan Singh",
-          "referredUserDetails": {}
-        }
-      ]
-    }
   }
 }
